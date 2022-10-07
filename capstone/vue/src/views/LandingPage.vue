@@ -66,12 +66,12 @@ export default {
 </script>
 
 <style scoped>
-.landing-container{
+/* .landing-container{
   height: 200px;
     width: 100%;
    
   
-}
+} */
 
 #app{
   background: url('../assets/hero-1.jpeg') no-repeat center center fixed !important;
